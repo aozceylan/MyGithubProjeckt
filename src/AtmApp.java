@@ -10,7 +10,7 @@ public class AtmApp {
         System.out.println("Javayi ogrenmek cok kolay");
         //version4
         System.out.println("aysegul branc");
-        //aysegul branc
+        //aysegul branc   g
 
 
         
