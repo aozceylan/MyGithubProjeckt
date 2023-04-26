@@ -14,5 +14,7 @@ public class AtmApp {
 
         System.out.println("Git ogrenmek ne kadar keyifli ve zevkli");
         //version6
+        System.out.println("yanlis yaptim");
+        //versionn6
     }
 }
