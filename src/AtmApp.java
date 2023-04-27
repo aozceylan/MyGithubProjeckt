@@ -20,8 +20,15 @@ public class AtmApp {
 
         System.out.println("aysegul branc");
         //aysegul branc   g
-
-
-
+        
+       if(true){system.out.println()
+           
+       }        
+        
+       //remote repoda degisiklik yaptim 
+        
     }
+    
+    
+    
 }
