@@ -10,11 +10,18 @@ public class AtmApp {
         System.out.println("Javayi ogrenmek cok kolay");
         //version4
 
+
         //version5
 
         System.out.println("Git ogrenmek ne kadar keyifli ve zevkli");
         //version6
         System.out.println("yanlis yaptim");
         //versionn6
+
+        System.out.println("aysegul branc");
+        //aysegul branc   g
+
+
+
     }
 }
